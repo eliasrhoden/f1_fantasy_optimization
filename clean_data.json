@@ -1,0 +1,2671 @@
+[
+   {
+      "name": "Bahrain GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.5,
+            "points": 45
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 24.8,
+            "points": 35
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.6,
+            "points": 32
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.4,
+            "points": 23
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 17.3,
+            "points": 15
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 16.8,
+            "points": 20
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 16.2,
+            "points": 12
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.6,
+            "points": -8
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.4,
+            "points": 11
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.9,
+            "points": 11
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.1,
+            "points": 29
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.7,
+            "points": 2
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.1,
+            "points": 11
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.6,
+            "points": 12
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.8,
+            "points": 16
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 7.9,
+            "points": 5
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.5,
+            "points": 1
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 10
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 11
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.5,
+            "points": -14
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 67,
+            "cost": 38.0
+         },
+         {
+            "name": "Red Bull",
+            "points": 53,
+            "cost": 25.9
+         },
+         {
+            "name": "McLaren",
+            "points": 39,
+            "cost": 18.9
+         },
+         {
+            "name": "Ferrari",
+            "points": 26,
+            "cost": 18.1
+         },
+         {
+            "name": "Aston Martin",
+            "points": 18,
+            "cost": 17.6
+         },
+         {
+            "name": "Alpine",
+            "points": 13,
+            "cost": 15.4
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 13,
+            "cost": 12.7
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 12,
+            "cost": 8.9
+         },
+         {
+            "name": "Williams",
+            "points": 6,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 7,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Imola GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.4,
+            "points": 40
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.1,
+            "points": 44
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.5,
+            "points": -9
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.4,
+            "points": 5
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 16.7,
+            "points": 19
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.4,
+            "points": 28
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.4,
+            "points": 1
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.2,
+            "points": 14
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.3,
+            "points": 23
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.6,
+            "points": 18
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.4,
+            "points": 34
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.7,
+            "points": 17
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 9.7,
+            "points": 13
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.4,
+            "points": 13
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 9.4,
+            "points": 6
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 7.8,
+            "points": 8
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.5,
+            "points": -13
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": -11
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.7,
+            "points": 11
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 6
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 36,
+            "cost": 37.8
+         },
+         {
+            "name": "Red Bull",
+            "points": 44,
+            "cost": 26.0
+         },
+         {
+            "name": "McLaren",
+            "points": 48,
+            "cost": 18.7
+         },
+         {
+            "name": "Ferrari",
+            "points": 46,
+            "cost": 18.7
+         },
+         {
+            "name": "Aston Martin",
+            "points": 14,
+            "cost": 16.9
+         },
+         {
+            "name": "Alpine",
+            "points": 22,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 23,
+            "cost": 13.2
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 16,
+            "cost": 8.9
+         },
+         {
+            "name": "Williams",
+            "points": 4,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 12,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Portugal GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.4,
+            "points": 43
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.2,
+            "points": 37
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.4,
+            "points": 32
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.3,
+            "points": 23
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 16.6,
+            "points": 14
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.6,
+            "points": 22
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": 4
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.0,
+            "points": 17
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.3,
+            "points": 2
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.6,
+            "points": 8
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.6,
+            "points": 27
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.7,
+            "points": 10
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 9.6,
+            "points": 18
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.4,
+            "points": -13
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 9.4,
+            "points": 2
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 7.8,
+            "points": 8
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.5,
+            "points": 2
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 3
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.7,
+            "points": 11
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 4
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 65,
+            "cost": 37.7
+         },
+         {
+            "name": "Red Bull",
+            "points": 55,
+            "cost": 26.1
+         },
+         {
+            "name": "McLaren",
+            "points": 36,
+            "cost": 18.7
+         },
+         {
+            "name": "Ferrari",
+            "points": 19,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": 7,
+            "cost": 16.7
+         },
+         {
+            "name": "Alpine",
+            "points": 30,
+            "cost": 15.0
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 7,
+            "cost": 13.2
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 5,
+            "cost": 8.9
+         },
+         {
+            "name": "Williams",
+            "points": 0,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 10,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Spain GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.3,
+            "points": 44
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.3,
+            "points": 41
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.2,
+            "points": 27
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.3,
+            "points": 23
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 16.4,
+            "points": 23
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.8,
+            "points": 28
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.1,
+            "points": 3
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.0,
+            "points": -5
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.4,
+            "points": 13
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.6,
+            "points": 8
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.7,
+            "points": 12
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.7,
+            "points": 13
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.0,
+            "points": 9
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.4,
+            "points": 15
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 9.2,
+            "points": -14
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 7.8,
+            "points": 4
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 8
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.3,
+            "points": 10
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.7,
+            "points": 7
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 4
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 66,
+            "cost": 37.6
+         },
+         {
+            "name": "Red Bull",
+            "points": 59,
+            "cost": 26.1
+         },
+         {
+            "name": "McLaren",
+            "points": 30,
+            "cost": 18.8
+         },
+         {
+            "name": "Ferrari",
+            "points": 36,
+            "cost": 19.0
+         },
+         {
+            "name": "Aston Martin",
+            "points": 6,
+            "cost": 16.6
+         },
+         {
+            "name": "Alpine",
+            "points": -1,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 9,
+            "cost": 13.0
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 14,
+            "cost": 8.9
+         },
+         {
+            "name": "Williams",
+            "points": 13,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 6,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Monaco GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.3,
+            "points": 37
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.3,
+            "points": 60
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.3,
+            "points": 3
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.2,
+            "points": 28
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 16.2,
+            "points": 3
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 18.0,
+            "points": 5
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.0,
+            "points": 28
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.0,
+            "points": 10
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.3,
+            "points": 36
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.5,
+            "points": 17
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.9,
+            "points": 49
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.6,
+            "points": 22
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.4,
+            "points": 14
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 9
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.8,
+            "points": 2
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 7.8,
+            "points": 11
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 8
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.3,
+            "points": 10
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 0
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 11
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 25,
+            "cost": 37.6
+         },
+         {
+            "name": "Red Bull",
+            "points": 78,
+            "cost": 26.1
+         },
+         {
+            "name": "McLaren",
+            "points": 32,
+            "cost": 18.9
+         },
+         {
+            "name": "Ferrari",
+            "points": 51,
+            "cost": 18.7
+         },
+         {
+            "name": "Aston Martin",
+            "points": 40,
+            "cost": 16.5
+         },
+         {
+            "name": "Alpine",
+            "points": 19,
+            "cost": 15.3
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 19,
+            "cost": 12.8
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 15,
+            "cost": 8.9
+         },
+         {
+            "name": "Williams",
+            "points": 13,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 11,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Azerbaijan GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.3,
+            "points": 5
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.4,
+            "points": 9
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.1,
+            "points": 4
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.0,
+            "points": 51
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 16.2,
+            "points": 13
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 18.3,
+            "points": 25
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 14.9,
+            "points": 36
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.8,
+            "points": 23
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.6,
+            "points": 8
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.4,
+            "points": -20
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.9,
+            "points": 32
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.5,
+            "points": 43
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.5,
+            "points": -13
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.4,
+            "points": 17
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.5,
+            "points": 13
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 7.9,
+            "points": 6
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 5
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 3
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 15
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 10
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 9,
+            "cost": 37.5
+         },
+         {
+            "name": "Red Bull",
+            "points": 45,
+            "cost": 26.0
+         },
+         {
+            "name": "McLaren",
+            "points": 40,
+            "cost": 18.7
+         },
+         {
+            "name": "Ferrari",
+            "points": 28,
+            "cost": 19.6
+         },
+         {
+            "name": "Aston Martin",
+            "points": 31,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 20,
+            "cost": 15.2
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 41,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 23,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 3,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 20,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "French GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.2,
+            "points": 36
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.5,
+            "points": 49
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 22
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.3,
+            "points": 38
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 16.0,
+            "points": 21
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 18.3,
+            "points": -2
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 14.9,
+            "points": 16
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.8,
+            "points": 17
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.7,
+            "points": 10
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.4,
+            "points": 7
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.9,
+            "points": 28
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.7,
+            "points": 18
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.4,
+            "points": 0
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 2
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.4,
+            "points": 6
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 6
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 0
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 12
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 4
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 0
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 53,
+            "cost": 37.3
+         },
+         {
+            "name": "Red Bull",
+            "points": 72,
+            "cost": 26.1
+         },
+         {
+            "name": "McLaren",
+            "points": 44,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": -2,
+            "cost": 19.6
+         },
+         {
+            "name": "Aston Martin",
+            "points": 23,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 12,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 24,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 3,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 7,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": -1,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Styrian GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.1,
+            "points": 38
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.5,
+            "points": 44
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 34
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.5,
+            "points": 22
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.9,
+            "points": 3
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.9,
+            "points": 16
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.1,
+            "points": 7
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.8,
+            "points": 11
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.7,
+            "points": 24
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 16
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 13.9,
+            "points": 22
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.8,
+            "points": -5
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.4,
+            "points": 8
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 15
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.4,
+            "points": 13
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 5
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 4
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": -11
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 13
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 6
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 62,
+            "cost": 37.3
+         },
+         {
+            "name": "Red Bull",
+            "points": 61,
+            "cost": 26.3
+         },
+         {
+            "name": "McLaren",
+            "points": 20,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": 35,
+            "cost": 19.1
+         },
+         {
+            "name": "Aston Martin",
+            "points": 18,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 14,
+            "cost": 15.3
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 18,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 15,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 3,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 14,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Austrian GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.1,
+            "points": 25
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.6,
+            "points": 49
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 37
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.8,
+            "points": 14
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.9,
+            "points": 19
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.6,
+            "points": 15
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": 4
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.8,
+            "points": 17
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.3,
+            "points": 28
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 0
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.0,
+            "points": 31
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 15
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.3,
+            "points": -14
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 2
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.4,
+            "points": -2
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 10
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 8
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 5
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 9
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 4
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 72,
+            "cost": 37.2
+         },
+         {
+            "name": "Red Bull",
+            "points": 63,
+            "cost": 26.5
+         },
+         {
+            "name": "McLaren",
+            "points": 45,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": 38,
+            "cost": 18.7
+         },
+         {
+            "name": "Aston Martin",
+            "points": -1,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 13,
+            "cost": 15.2
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 3,
+            "cost": 12.7
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 7,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 8,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 8,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "British GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 65
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.7,
+            "points": 18
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 41
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.8,
+            "points": 22
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.8,
+            "points": 27
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.5,
+            "points": 48
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": -1
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.8,
+            "points": 35
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.3,
+            "points": 21
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 22
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.0,
+            "points": 53
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 8
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.1,
+            "points": 10
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 7
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.5,
+            "points": 17
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 12
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 10
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 16
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 8
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 11
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 86,
+            "cost": 37.2
+         },
+         {
+            "name": "Red Bull",
+            "points": 43,
+            "cost": 26.6
+         },
+         {
+            "name": "McLaren",
+            "points": 58,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": 72,
+            "cost": 18.7
+         },
+         {
+            "name": "Aston Martin",
+            "points": 29,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 28,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 18,
+            "cost": 12.7
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 12,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 19,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 12,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Hungarian GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 45
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.7,
+            "points": 9
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": -3
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.8,
+            "points": 0
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.8,
+            "points": 6
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.5,
+            "points": -6
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": -14
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.8,
+            "points": 28
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.4,
+            "points": 31
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": -10
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.1,
+            "points": -5
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 30
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.1,
+            "points": 47
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 15
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.5,
+            "points": 20
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 5
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 21
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 18
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 9
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": -12
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 42,
+            "cost": 37.1
+         },
+         {
+            "name": "Red Bull",
+            "points": 14,
+            "cost": 26.7
+         },
+         {
+            "name": "McLaren",
+            "points": 11,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": 35,
+            "cost": 18.7
+         },
+         {
+            "name": "Aston Martin",
+            "points": 6,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 70,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 40,
+            "cost": 12.7
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 15,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 34,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 12,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Belgian GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 32
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.7,
+            "points": 49
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.1,
+            "points": 9
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.6,
+            "points": -2
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.8,
+            "points": 28
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.7,
+            "points": 14
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": 25
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 14.9,
+            "points": 5
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.5,
+            "points": 16
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 2
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.2,
+            "points": 7
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 22
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.1,
+            "points": 19
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.3,
+            "points": 6
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.4,
+            "points": 4
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 9
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 7
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 36
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 9
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 4
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 41,
+            "cost": 37.1
+         },
+         {
+            "name": "Red Bull",
+            "points": 37,
+            "cost": 26.6
+         },
+         {
+            "name": "McLaren",
+            "points": 30,
+            "cost": 18.7
+         },
+         {
+            "name": "Ferrari",
+            "points": 15,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": 22,
+            "cost": 16.5
+         },
+         {
+            "name": "Alpine",
+            "points": 19,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 21,
+            "cost": 12.7
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 10,
+            "cost": 9.2
+         },
+         {
+            "name": "Williams",
+            "points": 38,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 8,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Dutch GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 41
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.7,
+            "points": 44
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 27
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.5,
+            "points": 16
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.7,
+            "points": 5
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.6,
+            "points": 25
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": 6
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.0,
+            "points": 23
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.5,
+            "points": 13
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 8
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.2,
+            "points": 13
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 28
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.2,
+            "points": 9
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.2,
+            "points": 4
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.4,
+            "points": -13
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 3
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 14
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 0
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 6
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": -14
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 58,
+            "cost": 37.1
+         },
+         {
+            "name": "Red Bull",
+            "points": 55,
+            "cost": 26.6
+         },
+         {
+            "name": "McLaren",
+            "points": 13,
+            "cost": 18.7
+         },
+         {
+            "name": "Ferrari",
+            "points": 33,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": 9,
+            "cost": 16.5
+         },
+         {
+            "name": "Alpine",
+            "points": 27,
+            "cost": 15.1
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 25,
+            "cost": 12.7
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 2,
+            "cost": 9.1
+         },
+         {
+            "name": "Williams",
+            "points": 9,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 2,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Italian GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 1
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.7,
+            "points": 14
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 57
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.5,
+            "points": 28
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.7,
+            "points": 58
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.7,
+            "points": 34
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.3,
+            "points": 4
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.2,
+            "points": 21
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.5,
+            "points": 23
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 22
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.2,
+            "points": 41
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": -10
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.2,
+            "points": 20
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.2,
+            "points": 10
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.3,
+            "points": -10
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 8
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 11
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 21
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": 13
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": -8
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 66,
+            "cost": 37.1
+         },
+         {
+            "name": "Red Bull",
+            "points": 47,
+            "cost": 26.6
+         },
+         {
+            "name": "McLaren",
+            "points": 87,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": 60,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": 19,
+            "cost": 16.5
+         },
+         {
+            "name": "Alpine",
+            "points": 24,
+            "cost": 15.2
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 6,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 11,
+            "cost": 9.1
+         },
+         {
+            "name": "Williams",
+            "points": 25,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 13,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Russian GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 52
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.7,
+            "points": 33
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.0,
+            "points": 33
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.4,
+            "points": 8
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.7,
+            "points": 27
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.7,
+            "points": 11
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.3,
+            "points": -1
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.2,
+            "points": 22
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.5,
+            "points": 31
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 4
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.2,
+            "points": 17
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 6
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.3,
+            "points": -5
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.2,
+            "points": 21
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.3,
+            "points": -2
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 4
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 0
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.2,
+            "points": 8
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.8,
+            "points": -12
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 2
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 75,
+            "cost": 37.1
+         },
+         {
+            "name": "Red Bull",
+            "points": 36,
+            "cost": 26.6
+         },
+         {
+            "name": "McLaren",
+            "points": 34,
+            "cost": 18.6
+         },
+         {
+            "name": "Ferrari",
+            "points": 37,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": -2,
+            "cost": 16.5
+         },
+         {
+            "name": "Alpine",
+            "points": 12,
+            "cost": 15.2
+         },
+         {
+            "name": "AlphaTauri",
+            "points": -1,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 20,
+            "cost": 9.1
+         },
+         {
+            "name": "Williams",
+            "points": 3,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 0,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "Turkish GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.0,
+            "points": 36
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.6,
+            "points": 35
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.4,
+            "points": 46
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.3,
+            "points": 29
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.8,
+            "points": 12
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.6,
+            "points": 26
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.3,
+            "points": -7
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.1,
+            "points": 1
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.4,
+            "points": 17
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 11
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.2,
+            "points": 18
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 11.9,
+            "points": 19
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.3,
+            "points": 11
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.1,
+            "points": 12
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.3,
+            "points": -5
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 17
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 0
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.3,
+            "points": 6
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.7,
+            "points": 3
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 0
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 72,
+            "cost": 37.2
+         },
+         {
+            "name": "Red Bull",
+            "points": 59,
+            "cost": 26.3
+         },
+         {
+            "name": "McLaren",
+            "points": 25,
+            "cost": 18.8
+         },
+         {
+            "name": "Ferrari",
+            "points": 38,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": -1,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 7,
+            "cost": 15.2
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 9,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 24,
+            "cost": 9.1
+         },
+         {
+            "name": "Williams",
+            "points": 1,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": -2,
+            "cost": 6.1
+         }
+      ]
+   },
+   {
+      "name": "USA GP",
+      "drivers": [
+         {
+            "name": "Lewis Hamilton",
+            "cost": 33.1,
+            "points": 41
+         },
+         {
+            "name": "Max Verstappen",
+            "cost": 25.6,
+            "points": 44
+         },
+         {
+            "name": "Valtteri Bottas",
+            "cost": 23.3,
+            "points": 35
+         },
+         {
+            "name": "Sergio Perez",
+            "cost": 18.2,
+            "points": 37
+         },
+         {
+            "name": "Daniel Ricciardo",
+            "cost": 15.8,
+            "points": 25
+         },
+         {
+            "name": "Charles Leclerc",
+            "cost": 17.7,
+            "points": 27
+         },
+         {
+            "name": "Sebastian Vettel",
+            "cost": 15.2,
+            "points": 19
+         },
+         {
+            "name": "Fernando Alonso",
+            "cost": 15.1,
+            "points": -13
+         },
+         {
+            "name": "Carlos Sainz",
+            "cost": 14.5,
+            "points": 21
+         },
+         {
+            "name": "Lance Stroll",
+            "cost": 13.3,
+            "points": 4
+         },
+         {
+            "name": "Lando Norris",
+            "cost": 14.2,
+            "points": 19
+         },
+         {
+            "name": "Piere Gasly",
+            "cost": 12.0,
+            "points": -8
+         },
+         {
+            "name": "Esteban Ocon",
+            "cost": 10.2,
+            "points": -11
+         },
+         {
+            "name": "Kimi Raikkonen",
+            "cost": 9.1,
+            "points": 6
+         },
+         {
+            "name": "Yuki Tsunoda",
+            "cost": 8.2,
+            "points": 12
+         },
+         {
+            "name": "Antonio Giovinazzi",
+            "cost": 8.0,
+            "points": 10
+         },
+         {
+            "name": "Nicholas Latifi",
+            "cost": 6.4,
+            "points": 1
+         },
+         {
+            "name": "George Russell",
+            "cost": 6.3,
+            "points": 18
+         },
+         {
+            "name": "Mick Schumacher",
+            "cost": 5.7,
+            "points": 7
+         },
+         {
+            "name": "Nikita Mazepin",
+            "cost": 5.3,
+            "points": 2
+         }
+      ],
+      "teams": [
+         {
+            "name": "Mercedes",
+            "points": 66,
+            "cost": 37.2
+         },
+         {
+            "name": "Red Bull",
+            "points": 76,
+            "cost": 26.3
+         },
+         {
+            "name": "McLaren",
+            "points": 29,
+            "cost": 18.8
+         },
+         {
+            "name": "Ferrari",
+            "points": 33,
+            "cost": 18.8
+         },
+         {
+            "name": "Aston Martin",
+            "points": 18,
+            "cost": 16.4
+         },
+         {
+            "name": "Alpine",
+            "points": 4,
+            "cost": 15.2
+         },
+         {
+            "name": "AlphaTauri",
+            "points": 14,
+            "cost": 12.6
+         },
+         {
+            "name": "Alfa Romeo",
+            "points": 11,
+            "cost": 9.1
+         },
+         {
+            "name": "Williams",
+            "points": 14,
+            "cost": 6.3
+         },
+         {
+            "name": "Haas",
+            "points": 4,
+            "cost": 6.1
+         }
+      ]
+   }
+]
