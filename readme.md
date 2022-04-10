@@ -3,6 +3,7 @@
 Rewriting the choice of F1 Fantasy team lineup as a mixed integer program. Solved using Google OR-tools.
 https://developers.google.com/optimization
 
+Related blog post: https://eliasrhoden.github.io/optimization/2021/11/13/F1-Fantasy-optimization.html
 
 It's worth mentioning that the results have not been verified other than *by eye*, and for next year's season, the goal is to include Turbo and Mega drivers in the optimization problem (And also the nr of substitutions allowed).
 
